@@ -1,0 +1,3 @@
+Logging to /content/drive/MyDrive/MM-Diffusion/outputs/MM-Diffusion/eval/debug
+evaluate for 2048 samples
+metric:{'fvd': 418.5821533203125, 'kvd': 13.021285742390262, 'fad': 12.098887236788869}
